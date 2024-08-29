@@ -28,7 +28,8 @@
     },
     "plugins": [
       [
-        "expo-router", {
+        "expo-router",
+        {
           "origin": "https://uber.com/"
         }
       ]
